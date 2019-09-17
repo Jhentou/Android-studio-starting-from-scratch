@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">溫度換算</string>
+
+    <string name="charF">"\u2109"</string>
+    <string name="charC">"\u2103"</string>
+    <string name="華氏">華氏</string>
+    <string name="攝氏">攝氏</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">迷你備忘錄</string>
+
+    <string name="title_activity_edot">編輯備忘項目</string>
+</resources>
